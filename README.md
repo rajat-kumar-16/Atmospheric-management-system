@@ -1,1 +1,0 @@
-# Atmospheric-management-system
